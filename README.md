@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Vehicle Fuel Efficiency Prediction Using Simple Linear Regression  
 ## 📘 Coursera Guided Project
 
@@ -63,3 +64,6 @@ I developed this project as part of a Coursera Guided Project, simulating a real
 - Applied metrics to evaluate model performance effectively
 
 
+=======
+# Vehicle-Fuel-Efficiency-Prediction-Using-Simple-Linear-Regression-
+>>>>>>> 993068e3b93251cd7518d0cf3a870fe8c5a79fbd
