@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚗 Vehicle Fuel Efficiency Prediction Using Simple Linear Regression  
 ## 📘 Coursera Guided Project
 
