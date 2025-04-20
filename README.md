@@ -1,12 +1,12 @@
 
-# 🚗 Vehicle Fuel Efficiency Prediction Using Simple Linear Regression  
-## 📘 Coursera Guided Project
+#  Vehicle Fuel Efficiency Prediction Using Simple Linear Regression  
+## Coursera Guided Project
 
 I developed this project as part of a Coursera Guided Project, simulating a real-world scenario where I acted as a data science consultant for a major automotive manufacturer. The objective was to build a predictive model using simple linear regression to understand the impact of vehicle horsepower on fuel efficiency (Miles Per Gallon - MPG).
 
 ---
 
-## 🎯 Objective
+##  Objective
 
  Predict fuel consumption (MPG) based on vehicle horsepower using a simple linear regression model built with Scikit-Learn.
 
@@ -21,7 +21,7 @@ I developed this project as part of a Coursera Guided Project, simulating a real
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Language Python
 - Environment Jupyter Notebook
@@ -32,7 +32,7 @@ I developed this project as part of a Coursera Guided Project, simulating a real
 
 ---
 
-## 🔎 Project Workflow
+##  Project Workflow
 
 1. Data Loading & Cleaning  
    Imported the dataset and performed basic preprocessing.
@@ -48,7 +48,7 @@ I developed this project as part of a Coursera Guided Project, simulating a real
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - `SimpleLinearRegressionProject.ipynb` – Main Jupyter notebook with code and results  
 - `FuelEconomy.csv` – Dataset used for trainingtesting  
